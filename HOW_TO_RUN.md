@@ -1,6 +1,6 @@
-# 🚀 How to Run the Application
+#  How to Run the Application
 
-## Quick Start (Easiest Method)
+## Quick Start !!  ** project frontend is crashing due incomplete framework**
 
 ### Option 1: Double-click START_HERE.bat
 Simply double-click the `START_HERE.bat` file in Windows Explorer. It will:
@@ -44,7 +44,7 @@ Press CTRL+C to stop the server
 ✓ Press CTRL+C to stop the server
 ```
 
-**No warnings or errors!** ✅
+**There are warnings on frontend and we are solving it**
 
 ## Access the Application
 
@@ -92,5 +92,5 @@ app.run(debug=True, host='0.0.0.0', port=5001)  # Change 5000 to 5001
 ✅ Clean terminal output - Implemented
 ✅ Easy startup script - Created
 
-Enjoy your application! 🌾
+Enjoy your application! 
 
